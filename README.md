@@ -14,6 +14,9 @@ In general, there are four main files for running the code:
 - main3.m: identifies the first turning point, and
 - main4.m: plots the results.
 
+Note:
+- The code for the 1D case is only valid for an even value of n.
+
 If there is an error in the code, please send an email to shahab@its.ac.id.
 
 Last update: 2 November 2024
